@@ -56,6 +56,7 @@ Developed by:F Mohammed Ameer RegisterNumber:25015295
 <img width="809" height="176" alt="Screenshot 2025-12-17 093730" src="https://github.com/user-attachments/assets/23742c44-1a83-441f-b225-d8cea6824abd" />
 
 **TRUTH TABLE**
+
 <img width="810" height="272" alt="Screenshot 2025-12-17 093754" src="https://github.com/user-attachments/assets/20bf9207-2658-4ef2-8957-e41e87263fa5" />
 
 **RESULTS**
